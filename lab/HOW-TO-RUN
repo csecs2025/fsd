@@ -1,0 +1,11 @@
+Step 1:
+
+npx create-react-app "<application-name>"
+
+Step 2:
+
+cd "<application name>"
+
+Step 3:
+
+npm start 
